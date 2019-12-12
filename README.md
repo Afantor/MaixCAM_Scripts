@@ -1,0 +1,2 @@
+# MaixCAM
+Scripts for MaixPy.
